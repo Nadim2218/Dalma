@@ -1,0 +1,669 @@
+@media (max-width: 575.98px) {
+    .scroll{
+height: auto;
+        overflow: revert;
+
+}
+    .quicktech-fotter-mainn {
+        text-align: center;
+    }
+    .quicktech-fotter-main ul {
+        display: flex;
+        column-gap: 30px;
+        justify-content: center;
+        padding-bottom: 20px;
+    }
+    .quicktech-category-flex li a{
+         color: black !important;
+         font-size: 13px !important;
+    }
+    .quicktech-category-main {
+        border-top: 1px solid black;
+        padding-top: 20px;
+        overflow-x: scroll !important;
+        padding-bottom: 10px;
+     
+    }
+    .dropdown-menu[data-bs-popper] {
+        top: 100%;
+        left: -92px;
+        margin-top: var(--bs-dropdown-spacer);
+    }
+    .address-width{
+        width: auto;
+    }
+    /* #testimonial{
+        margin-top: 100px;
+    } */
+    #quicktech-coming-soon{
+        margin-top: 100px;
+    }
+    /* #quicktech-servicedetails{
+        margin-top: 100px;
+    } */
+    /* #quicktech-gallery-main{
+        margin-top: 100px;
+    } */
+    /* #quicktech-apply{
+        margin-top: 100px;
+    } */
+    #Quicktech-contact{
+        margin-top: 100px;
+    }
+    /* #quicktech-service{
+        margin-top: 100px;
+    } */
+    /* #quicktech-circular-main{
+        margin-top: 100px;
+    } */
+    .address {
+        display: block !important;
+    }
+    .quicktech-photos-main {
+        border: 1px solid rgba(0, 0, 0, 0.185);
+        border-radius: 10px;
+        padding: 10px;
+        display: none;
+    }
+
+    .quicktech-circular-content p {
+        margin-top: 10px;
+        /* text-align: justify; */
+        width: auto;
+        /* word-wrap: anywhere; */
+        width: auto;
+    }
+    .quicktech-like-flex li a {
+        text-decoration: none;
+        /* color: #007bff; */
+        cursor: pointer;
+        font-size: 10px;
+        padding: 7px 14px;
+    }
+    
+    .quicktech-p-right a {
+        color: white;
+        font-size: 13px;
+    }
+    .quicktech-button button {
+        background-color: #007bff;
+        color: #fff;
+        border: none;
+        padding: 5px 10px;
+        border-radius: 5px;
+        cursor: pointer;
+        text-decoration: none;
+    }
+    .quicktech-button button a{
+        font-size: 13px;
+    }
+    .quicktech-button {
+        position: absolute;
+        bottom: 183px;
+        right: 40px;
+    }
+    .foot-d {
+        display: block;
+
+    }
+    .carousel-control-next, .carousel-control-prev {
+        position: absolute;
+        top: 76px;
+        bottom: 0;
+        z-index: 1;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 15%;
+        padding: 0;
+        color: #fff;
+        text-align: center;
+        background: 0 0;
+        border: 0;
+        opacity: .5;
+        transition: opacity .15s ease;
+    }
+    /*  */
+    .menu-bg {
+        position: fixed;
+        width: 100%;
+        height: 87px;
+        z-index: 9;
+        top: 0;
+        left: 0;
+        background-color: white;
+    }
+    .logos{
+        width: 66% !important;
+    }
+    .quicktech-profile-img img {
+        width: 120px;
+        height: 120px;
+    }
+    .quicktech-profile-img {
+        position: absolute;
+        bottom: 146px;
+        left: 24%;
+        transform: translateX(-50%);
+    }
+    .quicktech-p-c {
+        display: block;
+        /* justify-content: space-between; */
+    }
+    /* #quicktech-category{
+        margin-top: -22px;
+    } */
+    #quicktech-feature-latest {
+        padding: 0;
+    }
+    .catt {
+        margin-top: -116px;
+    }
+    .quicktech-p-left {
+        padding-left: 68px;
+        padding-top: 0;
+        text-align: center;
+    }
+    .quicktech-p-right{
+        text-align: center;
+    }
+    #quicktech-banner {
+        width: 100%;
+        padding-bottom: 20px;
+        position: relative;
+        height: 499px;
+    }
+    .quicktech-like-flex {
+        list-style-type: none;
+        padding: 0;
+        display: flex;
+        gap: 0;
+        justify-content: space-around;
+    }
+    .quicktech-noti{
+        display: none;
+    }
+    .quicktech-title h4 {
+        padding-top: 31px;
+        margin-left: -3px;
+        font-family: "Oswald", sans-serif;
+        font-weight: 700;
+        font-size: 16px;
+    }
+    .quicktech-notii{
+        display: block;
+        padding-top: 20px;
+    }
+    /*  */
+   
+    .bb{
+        font-size: 12px;
+        
+    }
+    .quicktech-i img{
+        height: 200px;
+    }
+    .carousel-indicators [data-bs-target]{
+        display: none;
+    }
+  #quicktech-banner{
+    position: relative;
+  }
+  .quicktech-banner-content {
+	position: absolute;
+	content: '';
+	left: 10px;
+	bottom: 81px;
+}
+.quicktech-registered-user {
+	position: absolute;
+	bottom: 8%;
+	right: 15px;
+	padding: 10px 20px;
+	background-color: transparent;
+	border-radius: 10px;
+}
+   
+    .quicktech-content {
+        position: absolute;
+        top: 28%;
+        left: 40px;
+        transform: translateY(-50%);
+    }
+    .navbar-nav{
+        display: block;
+        background-color: white;
+    }
+    .quicktech-banner-main {
+        width: 100%;
+        height: 400px;
+    }
+    .quicktech-content {
+        position: absolute;
+        top: 37%;
+        left: 40px;
+        transform: translateY(-50%);
+    }
+    .quicktech-banner-content a {
+        color: white;
+        font-size: 12px;
+    }
+    .quicktech-registered-user h4 {
+        color: white;
+        font-size: 10px;
+    }
+    .quicktech-registered-user h4 {
+        color: white;
+        font-size: 11px;
+    }
+ 
+    .quicktech-registered-user span {
+        color: black;
+        font-size: 10px;
+        padding: 2px 5px;
+        line-height: 10px;
+        background-color: white;
+        border-radius: 50%;
+    }
+    .quicktech-category-flex li a {
+        color: white;
+        font-size: 11px;
+    }
+   
+    .cc {
+        width: 100%;
+    }
+    .quicktech-recent-img img {
+        height: 250px;
+    }
+    .quicktech-c-img img {
+        width: 100%;
+        height: 100%;
+        filter: brightness(70%);
+        border-radius: 20px;
+    }
+    .quicktech-chairman-main p {
+        /* margin: auto; */
+        width: auto;
+        font-size: 14px;
+        padding: 10px;
+    }
+    .quicktech-content h4 {
+        font-size: 30px;
+        color: white;
+        font-family: "Roboto", sans-serif;
+        font-weight: 700;
+    }
+    .quicktech-content p {
+        font-size: 18px;
+        color: white;
+        font-family: "Roboto", sans-serif;
+        font-weight: 500;
+
+    }
+    
+    .quicktech-chairman-main img {
+        width: 100px;
+        height: 100px;
+        border-radius: 50%;
+    }
+    .navbar-collapse {
+        flex-basis: 100%;
+        flex-grow: 1;
+        align-items: center;
+        z-index: 999;
+        /* position: fixed; */
+    }
+    .quicktech-circular-contentt p {
+        width: auto;
+        color: white;
+        font-family: "Roboto", sans-serif;
+        font-weight: 500;
+        font-size: 13px;
+    }
+}
+@media (min-width: 576px) and (max-width: 766.98px) {
+    .scroll{
+        height: auto;
+                overflow: revert;
+        
+        }
+    .quicktech-profile-img {
+        position: absolute;
+        bottom: 127px;
+        left: 23%;
+        transform: translateX(-50%);
+    }
+    /* #quicktech-category{
+        padding-top: 0px;
+        margin-top: -30px;
+    } */
+    .catt {
+        margin-top: -116px;
+    }
+    #quicktech-feature-latest {
+        padding:  0;
+    }
+    .quicktech-p-left {
+        padding-left: 0;
+        padding-top: 0 !important;
+        text-align: center;
+    }
+    .quicktech-fotter-mainn {
+        text-align: center;
+    }
+    .quicktech-fotter-main ul {
+        display: flex;
+        column-gap: 30px;
+        justify-content: center;
+        padding-bottom: 20px;
+    }
+    .quicktech-category-flex li a{
+        color: black !important;
+        font-size: 13px !important;
+   }
+   .quicktech-category-main {
+       border-top: 1px solid black;
+       padding-top: 20px;
+       overflow-x: scroll !important;
+       padding-bottom: 10px;
+    
+   }
+    .dropdown-menu[data-bs-popper] {
+        top: 100%;
+        left: -92px;
+        margin-top: var(--bs-dropdown-spacer);
+    }
+    .address-width{
+        width: auto;
+    }
+    /* #testimonial{
+        margin-top: 100px;
+    } */
+    #quicktech-coming-soon{
+        margin-top: 100px;
+    }
+    /* #quicktech-servicedetails{
+        margin-top: 100px;
+    } */
+    #quicktech-gallery-main{
+        margin-top: 100px;
+    }
+    /* #quicktech-apply{
+        margin-top: 100px;
+    } */
+    #Quicktech-contact{
+        margin-top: 100px;
+    }
+    /* #quicktech-service{
+        margin-top: 100px;
+    } */
+    /* #quicktech-circular-main{
+        margin-top: 100px;
+    } */
+    .address {
+        display: block !important;
+    }
+    .quicktech-photos-main {
+        border: 1px solid rgba(0, 0, 0, 0.185);
+        border-radius: 10px;
+        padding: 10px;
+        display: none;
+    }
+      /*  */
+      .quicktech-i img{
+        height: 220px !important;
+    }
+      .carousel-indicators [data-bs-target] {
+        box-sizing: content-box;
+        flex: 0 1 auto;
+        width: 30px;
+        height: 3px;
+        padding: 0;
+        margin-right: 3px;
+        margin-left: 3px;
+        text-indent: -999px;
+        cursor: pointer;
+        background-color: #fff;
+        background-clip: padding-box;
+        border: 0;
+        border-top: 10px solid transparent;
+        border-bottom: 10px solid transparent;
+        opacity: .5;
+        transition: opacity .6s ease;
+        display: none;
+    }
+      .menu-bg {
+        position: fixed;
+        width: 100%;
+        height: 87px;
+        z-index: 9;
+        top: 0;
+        left: 0;
+        background-color: white;
+    }
+    .logos{
+        width: 72% !important;
+    }
+    .quicktech-profile-img img {
+        width: 120px;
+        height: 120px;
+    }
+    .quicktech-profile-img {
+        position: absolute;
+        bottom: 142px;
+        left: 24%;
+        transform: translateX(-50%);
+    }
+    .quicktech-p-c {
+        display: block;
+        /* justify-content: space-between; */
+    }
+    .quicktech-p-left {
+        padding-left: 0;
+        padding-top: 58px;
+        text-align: center;
+    }
+    .quicktech-p-right{
+        text-align: center;
+    }
+    #quicktech-banner {
+        width: 100%;
+        padding-bottom: 20px;
+        position: relative;
+        height: 499px;
+    }
+    .quicktech-like-flex {
+        list-style-type: none;
+        padding: 0;
+        display: flex;
+        gap: 0;
+        justify-content: space-around;
+    }
+    .quicktech-noti{
+        display: none;
+    }
+    .quicktech-title h4 {
+        padding-top: 31px;
+        padding-left: 0px;
+        font-family: "Oswald", sans-serif;
+        font-weight: 500;
+        font-size: 15px;
+    }
+    .quicktech-notii{
+        display: block;
+        padding-top: 20px;
+    }
+    .foot-d {
+        display: block;
+        justify-content: space-around;
+    }
+    /*  */
+    
+    .carousel-item img {
+        width: 100%;
+        height: 400px;
+        filter: brightness(70%);
+    }
+    .quicktech-registered-user {
+        position: absolute;
+        bottom: 8%;
+        right: 15px;
+        padding: 10px 20px;
+        background-color: transparent;
+        border-radius: 10px;
+    }
+    .navbar-nav{
+        display: block;
+        background-color: white;
+    }
+    .quicktech-banner-main {
+        width: 100%;
+        height: 400px;
+    }
+  
+    .quicktech-banner-content a {
+        color: white;
+        font-size: 12px;
+    }
+    .quicktech-registered-user h4 {
+        color: white;
+        font-size: 10px;
+    }
+    .quicktech-registered-user h4 {
+        color: white;
+        font-size: 11px;
+    }
+    .quicktech-content {
+        position: absolute;
+        top: 50%;
+        left: 71px;
+        transform: translateY(-50%);
+    }
+    .quicktech-registered-user span {
+        color: black;
+        font-size: 10px;
+        padding: 2px 5px;
+        line-height: 10px;
+        background-color: white;
+        border-radius: 50%;
+    }
+    .quicktech-category-flex li a {
+        color: white;
+        font-size: 11px;
+    }
+    .quicktech-circular-content p {
+        margin-top: 10px;
+        /* text-align: justify; */
+        width: auto;
+    }
+    .cc {
+        width: 100%;
+    }
+    .quicktech-recent-img img {
+        height: 250px;
+    }
+    .quicktech-c-img img {
+        width: 100%;
+        height: 100%;
+        filter: brightness(70%);
+        border-radius: 20px;
+    }
+    .quicktech-chairman-main p {
+        /* margin: auto; */
+        width: auto;
+        font-size: 14px;
+        padding: 10px;
+    }
+    .quicktech-content h4 {
+        font-size: 30px;
+        color: white;
+        font-family: "Roboto", sans-serif;
+        font-weight: 700;
+    }
+    .quicktech-content p {
+        font-size: 18px;
+        color: white;
+        font-family: "Roboto", sans-serif;
+        font-weight: 500;
+
+    }
+    
+    .quicktech-chairman-main img {
+        width: 100px;
+        height: 100px;
+        border-radius: 50%;
+    }
+    .navbar-collapse {
+        flex-basis: 100%;
+        flex-grow: 1;
+        align-items: center;
+        z-index: 999;
+        /* position: fixed; */
+    }
+}
+
+
+@media (min-width: 767px) and (max-width: 991.98px) {
+    .address {
+        column-gap: 30px;
+        display: block !important;
+    }
+    .address-width {
+        width: auto;
+    }
+    .quicktech-category-flex li a{
+        color: black !important;
+        font-size: 13px !important;
+   }
+   .quicktech-category-main {
+       border-top: 1px solid black;
+       padding-top: 20px;
+       overflow-x: scroll !important;
+       padding-bottom: 10px;
+    
+   }
+    .dropdown-menu[data-bs-popper] {
+        top: 100%;
+        left: -92px;
+        margin-top: var(--bs-dropdown-spacer);
+    }
+    .quicktech-photos-main {
+        border: 1px solid rgba(0, 0, 0, 0.185);
+        border-radius: 10px;
+        padding: 10px;
+        display: none;
+    }
+    .quicktech-circular-content p {
+        margin-top: 10px;
+        width: auto;
+    }
+    .address-container{
+        padding-left: 20px;
+    }
+    .logos {
+        width: 78% !important;
+    }
+    .quicktech-notii{
+        display: block;
+    }
+    .quicktech-notii {
+        display: block;
+        padding-top: 23px;
+    }
+    .quicktech-title h4 {
+        padding-top: 27px;
+        padding-left: 20px;
+        font-family: "Oswald", sans-serif;
+        font-weight: 500;
+        font-size: 25px;
+    }
+    .quicktech-notii {
+        display: block;
+        padding-top: 23px;
+        /* text-align: unset; */
+        /* margin: revert; */
+        padding-left: 285px;
+    }
+}
+    
